@@ -1,0 +1,489 @@
+{
+  "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d/albums?offset=0&limit=20&album_type=single,album,compilation,appears_on,ep",
+  "items" : [ {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2tWmWIqaGRhHssZiGrkn8v"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2tWmWIqaGRhHssZiGrkn8v",
+    "id" : "2tWmWIqaGRhHssZiGrkn8v",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6f0cbab2ba22a3c1d1cb6b381c64744f2495f395",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ef7111029db47ad8c11b1b362b161932ab51b47",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d71bcc2533bd4f3aff4a6e9919e1bfbf60e8a3a2",
+      "width" : 64
+    } ],
+    "name" : "A Night At The Odeon",
+    "type" : "album",
+    "uri" : "spotify:album:2tWmWIqaGRhHssZiGrkn8v"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/03fubwn4664emOoK7WkOdK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/03fubwn4664emOoK7WkOdK",
+    "id" : "03fubwn4664emOoK7WkOdK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf70df6d70c50b6e1e5fd33aaf0583d02c48cccb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3746ae4d04e36406b05a5de5a41b21a2f3213afd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/095d89e97817e218000182a5f2e9c6f571ac883f",
+      "width" : 64
+    } ],
+    "name" : "A Night at the Odeon",
+    "type" : "album",
+    "uri" : "spotify:album:03fubwn4664emOoK7WkOdK"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4RjhFl7Eo8PouXAL8GMiXS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4RjhFl7Eo8PouXAL8GMiXS",
+    "id" : "4RjhFl7Eo8PouXAL8GMiXS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9b3a9f7e8208a48104c6e8b3c61034923c11b4aa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed3d648359aaa9fc3e1affb9f7e933ecac21b776",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/708693837cb1850d6a294b1c7c99bdfec5a8aa60",
+      "width" : 64
+    } ],
+    "name" : "A Night At The Odeon",
+    "type" : "album",
+    "uri" : "spotify:album:4RjhFl7Eo8PouXAL8GMiXS"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dDGrgcjzDmzXBfyinYIGQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dDGrgcjzDmzXBfyinYIGQ",
+    "id" : "7dDGrgcjzDmzXBfyinYIGQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/19dc89f960d20634a001647720d5c68faef3d773",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5d4c22ce1202728555c558cc77e3a0fa40a4689",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ee58e614cc9808e78e0becdbd87366c6a01fce52",
+      "width" : 64
+    } ],
+    "name" : "Live At The Rainbow",
+    "type" : "album",
+    "uri" : "spotify:album:7dDGrgcjzDmzXBfyinYIGQ"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4rxdf27orKcIWhwSEqoed9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4rxdf27orKcIWhwSEqoed9",
+    "id" : "4rxdf27orKcIWhwSEqoed9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b0a1568705af6895676df8b34f137f40bd64d3e4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ad1d9e3a88486ad83dcbf08cb75cbeffee444c85",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61a4d1b10f55578f90b66d90079d4d4dd6d28c7b",
+      "width" : 64
+    } ],
+    "name" : "Live At The Rainbow",
+    "type" : "album",
+    "uri" : "spotify:album:4rxdf27orKcIWhwSEqoed9"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39YPL3W4Ug5ZFfpiulv2C7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39YPL3W4Ug5ZFfpiulv2C7",
+    "id" : "39YPL3W4Ug5ZFfpiulv2C7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53853c5d6ad113061c10e8e572ac4d68d78ce700",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fdd6ebd69134ca4bb9ebf6d287f1be47e16ebcc7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/78d6f2b9ce5da264c3075fedf93d7e19780349b0",
+      "width" : 64
+    } ],
+    "name" : "Live At The Rainbow (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:39YPL3W4Ug5ZFfpiulv2C7"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1zPInImSAOeB2u5Dm03YJI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1zPInImSAOeB2u5Dm03YJI",
+    "id" : "1zPInImSAOeB2u5Dm03YJI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07aead34fb4449042a20fbf7a10cdf52eb3ba7c2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/251ee4aabef86685381589de0a482fb725f8ee95",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c06611baa5d5716b2e2b1b17f9090934449101ee",
+      "width" : 64
+    } ],
+    "name" : "Live At The Rainbow (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:1zPInImSAOeB2u5Dm03YJI"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5wTdQlDnvBtUO3ptbwqeyz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5wTdQlDnvBtUO3ptbwqeyz",
+    "id" : "5wTdQlDnvBtUO3ptbwqeyz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9667ad20093e25eb05d7eaeb567ce557d0f3bd6f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ed502651f3cb73136036cb9728efe69d58cf29f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/25df7f7c6f2e3c0c7234904bf34caaaab0f7a184",
+      "width" : 64
+    } ],
+    "name" : "Live at the Rainbow ‘74",
+    "type" : "album",
+    "uri" : "spotify:album:5wTdQlDnvBtUO3ptbwqeyz"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0w4sTU4HG4QrEQrGqFLh7B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0w4sTU4HG4QrEQrGqFLh7B",
+    "id" : "0w4sTU4HG4QrEQrGqFLh7B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8816f29834d261f3de7f9f21db94eb5ae92516c8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6517cc3897b75bf451bee885c8bc0001c326501d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d7dbccabab6c896d720688ea3c5df23ab2761f8e",
+      "width" : 64
+    } ],
+    "name" : "Hungarian Rhapsody (Live In Budapest / 1986)",
+    "type" : "album",
+    "uri" : "spotify:album:0w4sTU4HG4QrEQrGqFLh7B"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3BuEiPtiFc0kcnZvURQpn8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3BuEiPtiFc0kcnZvURQpn8",
+    "id" : "3BuEiPtiFc0kcnZvURQpn8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/caa7cd1bbf7202b1fc64f8915b9f24c6fdd5af8b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/30f2893f9fbcd38d54bfcfcc2408df3818e239ad",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/40e75421604f8646541f922e75be98617cd399c4",
+      "width" : 64
+    } ],
+    "name" : "Hungarian Rhapsody (Live In Budapest / 1986)",
+    "type" : "album",
+    "uri" : "spotify:album:3BuEiPtiFc0kcnZvURQpn8"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0HJ76ERWySINSsmZjuk8PP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0HJ76ERWySINSsmZjuk8PP",
+    "id" : "0HJ76ERWySINSsmZjuk8PP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91819238ea23b53384b261fa735b4127bf91ad35",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9d15179c8c376b6f4f8d0a2dda234df0ffad9dfe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d80ac1c52c44a2a22e865d3aada1310fd8e936e7",
+      "width" : 64
+    } ],
+    "name" : "The Cosmos Rocks",
+    "type" : "album",
+    "uri" : "spotify:album:0HJ76ERWySINSsmZjuk8PP"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/47paRwe37Iwl2Dasr2pc17"
+    },
+    "href" : "https://api.spotify.com/v1/albums/47paRwe37Iwl2Dasr2pc17",
+    "id" : "47paRwe37Iwl2Dasr2pc17",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e7b866966670e747f8f15867d4014f0d8f43a080",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1ff484be93a2cb949dbe26c02c6a3358a129632a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c654ea716729f17dccdffecb1579e6e6089e723",
+      "width" : 64
+    } ],
+    "name" : "The Cosmos Rocks",
+    "type" : "album",
+    "uri" : "spotify:album:47paRwe37Iwl2Dasr2pc17"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/70pjSyIDOZ5G5blR6aNXkQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/70pjSyIDOZ5G5blR6aNXkQ",
+    "id" : "70pjSyIDOZ5G5blR6aNXkQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/951a69379b0a5db4b9fc01ab0f0b8c5405730346",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9af6cbce6e8769154715e2bb10a821f62d76eac7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/200dc55c1dc7c79dda6fbdd3079f05d7931c86a9",
+      "width" : 64
+    } ],
+    "name" : "Queen Rock Montreal",
+    "type" : "album",
+    "uri" : "spotify:album:70pjSyIDOZ5G5blR6aNXkQ"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2IY3Ty8CrUyvpibt8AcZmp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2IY3Ty8CrUyvpibt8AcZmp",
+    "id" : "2IY3Ty8CrUyvpibt8AcZmp",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/5f5587bdf0561bdb3fa151d4f8354b7fb060644c",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/b6f81cb818b7193e3b139fb1dbcb77562ac060bb",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/38af6ddd26a6089df3c954849f536b0ecf8651d6",
+      "width" : 64
+    } ],
+    "name" : "Queen Rock Montreal",
+    "type" : "album",
+    "uri" : "spotify:album:2IY3Ty8CrUyvpibt8AcZmp"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/27JIAjxwuXQ5gXfl4Ya0qn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/27JIAjxwuXQ5gXfl4Ya0qn",
+    "id" : "27JIAjxwuXQ5gXfl4Ya0qn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5cdb622588e72c7fe013a110b8da9bea62e721d7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fdc93d583b048f9982a6d903a15e8950fd6df12b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b1dadaaa09bd3d9104f5b8376caec272338d5062",
+      "width" : 64
+    } ],
+    "name" : "Queen Rock Montreal",
+    "type" : "album",
+    "uri" : "spotify:album:27JIAjxwuXQ5gXfl4Ya0qn"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2R33yLkTdkWRXIlja5vMUM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2R33yLkTdkWRXIlja5vMUM",
+    "id" : "2R33yLkTdkWRXIlja5vMUM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52ef4a2157cb83e0a1d230dbffc97bcd37c32770",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb87ef3e5d7ead49732bb5f58bcc9fadefa048c4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6dfcc4d6ab81ad3efdca6ff9f8fb297cdb7334",
+      "width" : 64
+    } ],
+    "name" : "Return Of The Champions",
+    "type" : "album",
+    "uri" : "spotify:album:2R33yLkTdkWRXIlja5vMUM"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/612jMQoBQ7Y0mZJjoAsJO7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/612jMQoBQ7Y0mZJjoAsJO7",
+    "id" : "612jMQoBQ7Y0mZJjoAsJO7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/45f63d7133995176e5e3a733e0f746416719d18f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/438bcb87f2bcea6a0d1ed632c9d093178e526b87",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7731dd08f3c4451dd70de76ed50af1d6f1206944",
+      "width" : 64
+    } ],
+    "name" : "Return Of The Champions",
+    "type" : "album",
+    "uri" : "spotify:album:612jMQoBQ7Y0mZJjoAsJO7"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3W7HRwvYEuenMdEOuLPOxw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3W7HRwvYEuenMdEOuLPOxw",
+    "id" : "3W7HRwvYEuenMdEOuLPOxw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d389c691247333c7b0c0afe2917cc4b1bdd144c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9cafff53ebae5f4faf98f761bb77814764caa744",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ad89dce91b68ec3186da9ebe6eaed4e1c48e64cf",
+      "width" : 64
+    } ],
+    "name" : "On Fire: Live At The Bowl",
+    "type" : "album",
+    "uri" : "spotify:album:3W7HRwvYEuenMdEOuLPOxw"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6SXKdxJs7RV5pe4RB2shvQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6SXKdxJs7RV5pe4RB2shvQ",
+    "id" : "6SXKdxJs7RV5pe4RB2shvQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/11ded2727c61ad1310b55f8f8c3ee73bac9f9927",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae659b284234d5cf6894375c3f527cee872b97f1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9050d9038412bce7ee87a5bc71007a43fea0f1ed",
+      "width" : 64
+    } ],
+    "name" : "On Fire: Live At The Bowl",
+    "type" : "album",
+    "uri" : "spotify:album:6SXKdxJs7RV5pe4RB2shvQ"
+  }, {
+    "album_type" : "album",
+    "available_markets" : [ "MX" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7rFOcbJkcXwqKQIpqcBCQ7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7rFOcbJkcXwqKQIpqcBCQ7",
+    "id" : "7rFOcbJkcXwqKQIpqcBCQ7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75f3c69a43f147902ed233df8aaafb302bbc01d8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/566b58aed5639d92a02236ff55f70ed849826ccd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/66fb02cab7385ee88b27ff56643ceaa15baaf4b1",
+      "width" : 64
+    } ],
+    "name" : "Made In Heaven",
+    "type" : "album",
+    "uri" : "spotify:album:7rFOcbJkcXwqKQIpqcBCQ7"
+  } ],
+  "limit" : 20,
+  "next" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d/albums?offset=20&limit=20&album_type=single,album,compilation,appears_on,ep",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 313
+}

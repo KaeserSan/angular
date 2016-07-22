@@ -1,0 +1,567 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=%27queen%27&offset=0&limit=20&type=artist",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2522210
+      },
+      "genres" : [ "album rock", "glam rock", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+      "images" : [ {
+        "height" : 806,
+        "url" : "https://i.scdn.co/image/f439465a43dd0e4d1aed1df5b0e3243eda49a403",
+        "width" : 999
+      }, {
+        "height" : 516,
+        "url" : "https://i.scdn.co/image/d654d928182fd66c75fb3b9a74b427317f5584c7",
+        "width" : 640
+      }, {
+        "height" : 161,
+        "url" : "https://i.scdn.co/image/19d06fdae9eeeef540a6e1b2f5cf43815512398b",
+        "width" : 200
+      }, {
+        "height" : 52,
+        "url" : "https://i.scdn.co/image/106f04597938cf8892c969fe187c2ddddc665094",
+        "width" : 64
+      } ],
+      "name" : "Queen",
+      "popularity" : 80,
+      "type" : "artist",
+      "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1740
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0VbIlorLz3I5SEtIsc5vAr",
+      "id" : "0VbIlorLz3I5SEtIsc5vAr",
+      "images" : [ {
+        "height" : 997,
+        "url" : "https://i.scdn.co/image/06b342c413bf3872fc2b4fab5582078b76e684e8",
+        "width" : 1000
+      }, {
+        "height" : 638,
+        "url" : "https://i.scdn.co/image/02da88c16130ac10975b63915bbca4af9061d9d6",
+        "width" : 640
+      }, {
+        "height" : 199,
+        "url" : "https://i.scdn.co/image/4adff0134c8d5281807dd9c9d403cd88a4f363c6",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/6e6cd38ab464561b72ec27d7e84a1c76a66824a7",
+        "width" : 64
+      } ],
+      "name" : "Queen Pen",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:0VbIlorLz3I5SEtIsc5vAr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23304
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5m7wCUhYhBh7A3A3YMxrbt",
+      "id" : "5m7wCUhYhBh7A3A3YMxrbt",
+      "images" : [ {
+        "height" : 400,
+        "url" : "https://i.scdn.co/image/d6d4b738a663c09e544f080ee4d37eab5a457ebb",
+        "width" : 400
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/47818dd8c208f32d5d8ae95a3902e55593244d6a",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/6f809d955facd6c3160c2f02ff8572397a0451cd",
+        "width" : 64
+      } ],
+      "name" : "Queen Latifah",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:5m7wCUhYhBh7A3A3YMxrbt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 51116
+      },
+      "genres" : [ "hurban", "latin hip hop" ],
+      "href" : "https://api.spotify.com/v1/artists/6p2442ymrT9lZEuCZJdYcH",
+      "id" : "6p2442ymrT9lZEuCZJdYcH",
+      "images" : [ {
+        "height" : 563,
+        "url" : "https://i.scdn.co/image/9c3c182fdf1866ab107cf0c4a44d587721647765",
+        "width" : 1000
+      }, {
+        "height" : 360,
+        "url" : "https://i.scdn.co/image/acab5a2371180388b9fae13eb58478b7a374a690",
+        "width" : 640
+      }, {
+        "height" : 113,
+        "url" : "https://i.scdn.co/image/0f410c9fd36355a022632aada5618cbcd455449f",
+        "width" : 200
+      }, {
+        "height" : 36,
+        "url" : "https://i.scdn.co/image/cbc75e0b6245aab1e31ddec3e759e7dc260e22ca",
+        "width" : 64
+      } ],
+      "name" : "Ivy Queen",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:6p2442ymrT9lZEuCZJdYcH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3lpOkEA6Avjncyb8WbZBbL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3524
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3lpOkEA6Avjncyb8WbZBbL",
+      "id" : "3lpOkEA6Avjncyb8WbZBbL",
+      "images" : [ {
+        "height" : 629,
+        "url" : "https://i.scdn.co/image/d2c4c5015d55e9d99a9c5060b8cb2bc90902c3e8",
+        "width" : 1000
+      }, {
+        "height" : 402,
+        "url" : "https://i.scdn.co/image/e986e865a4504265d552196d5b05e8ce76d788b8",
+        "width" : 640
+      }, {
+        "height" : 126,
+        "url" : "https://i.scdn.co/image/f2be9938530ffaefcf7b139f9cec2d1a0aca30a2",
+        "width" : 200
+      }, {
+        "height" : 40,
+        "url" : "https://i.scdn.co/image/7cf60bfaff758af665e89ff5d81ce4d07d59bc04",
+        "width" : 64
+      } ],
+      "name" : "The Queen & King",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:3lpOkEA6Avjncyb8WbZBbL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zDp0CVVeCtAaPC8AbogQS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 26
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6zDp0CVVeCtAaPC8AbogQS",
+      "id" : "6zDp0CVVeCtAaPC8AbogQS",
+      "images" : [ ],
+      "name" : "Madeleine Queen",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:6zDp0CVVeCtAaPC8AbogQS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1499
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/71WL5bNm5jPPpwpDcW3Icj",
+      "id" : "71WL5bNm5jPPpwpDcW3Icj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8a0e479961b79bc22c1350353c789046f5f0a11b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ee5d6b27339d2c982ff86a7f3c40fbe46ace6a95",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/36137bcaecea81d8767c18d0a7af5c0262da0986",
+        "width" : 64
+      } ],
+      "name" : "Bob the Drag Queen",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:71WL5bNm5jPPpwpDcW3Icj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 27546
+      },
+      "genres" : [ "metalcore" ],
+      "href" : "https://api.spotify.com/v1/artists/3DY26PgCL4tKVUPQBtBWei",
+      "id" : "3DY26PgCL4tKVUPQBtBWei",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/9cb4d73103584c418b010d32ecc887ee3229b684",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8c63f29bfd6e42af80aeec960cca0acc91140b51",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/796fd10f67b2ae2af6d2f58972003df57ce4feb5",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/34b172a1c392e2b0f2e8d0289691de0ec3ec7727",
+        "width" : 64
+      } ],
+      "name" : "I Killed The Prom Queen",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:3DY26PgCL4tKVUPQBtBWei"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3j2DZTwQle72CWyB19B5Mq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4469
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3j2DZTwQle72CWyB19B5Mq",
+      "id" : "3j2DZTwQle72CWyB19B5Mq",
+      "images" : [ {
+        "height" : 667,
+        "url" : "https://i.scdn.co/image/5b1d32f3b034210a23ad22f338901d569aae6307",
+        "width" : 1000
+      }, {
+        "height" : 427,
+        "url" : "https://i.scdn.co/image/29c8a1f961ac5581d2a7805b297f751aec2d012f",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/fa9191b6e5c51b72fffda772ad5a09420fd6cc28",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/7ffd3d50da8c910fb6ee209dd5db9cf2ecf72187",
+        "width" : 64
+      } ],
+      "name" : "The Black Queen",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:3j2DZTwQle72CWyB19B5Mq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4o79bJJ2tBszgEDEvLhB2L"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1752
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4o79bJJ2tBszgEDEvLhB2L",
+      "id" : "4o79bJJ2tBszgEDEvLhB2L",
+      "images" : [ {
+        "height" : 384,
+        "url" : "https://i.scdn.co/image/a7c948d3ced44b1711aef1838b770b0a875dea97",
+        "width" : 1000
+      }, {
+        "height" : 245,
+        "url" : "https://i.scdn.co/image/bf234ca7c0a579c830c7c89669cd2303d399063c",
+        "width" : 639
+      }, {
+        "height" : 77,
+        "url" : "https://i.scdn.co/image/c42caaf2d83bc1495b548c488c606ee18ea36f01",
+        "width" : 200
+      }, {
+        "height" : 25,
+        "url" : "https://i.scdn.co/image/fce2064dfb4e4c6de24947e40f0b75a0e70d84e2",
+        "width" : 64
+      } ],
+      "name" : "Benedictines Of Mary, Queen Of Apostles",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:4o79bJJ2tBszgEDEvLhB2L"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10668
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0DgsuiMZylmPOYkrVOqNYQ",
+      "id" : "0DgsuiMZylmPOYkrVOqNYQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ad2a4a1e41ab64d51cf54b542e7016caea2fcbff",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/e578e5d25037e676cad8b58232ad6693a3f65e71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/84db6a93b4060368e64743758c6812f19351e26b",
+        "width" : 64
+      } ],
+      "name" : "Storm Queen",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:0DgsuiMZylmPOYkrVOqNYQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nSv65R9rdtYkcnjj63h6T"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 360
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6nSv65R9rdtYkcnjj63h6T",
+      "id" : "6nSv65R9rdtYkcnjj63h6T",
+      "images" : [ ],
+      "name" : "Elijah Kelley, John Travolta, Queen Latifah, Nikki Blonsky, Zac Efron, Amanda Bynes",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:6nSv65R9rdtYkcnjj63h6T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6QWuYtzBkQ2Re44gRxaB2e"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1107
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6QWuYtzBkQ2Re44gRxaB2e",
+      "id" : "6QWuYtzBkQ2Re44gRxaB2e",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a525a417ea9dd07a472d2af4b20f73f464cb03ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f90a086648ad9b7c75cfa541064ecc9bbbf54e64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/34a9e08d773023c59440bd6e25e76e3032905511",
+        "width" : 64
+      } ],
+      "name" : "Queen",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:6QWuYtzBkQ2Re44gRxaB2e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11576
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5SK75gxwqKq5Zc1mdLfwv9",
+      "id" : "5SK75gxwqKq5Zc1mdLfwv9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/3ccc5c933b30ca95e5dab820102faef1eab096d8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8f16ffb597f7c52c9b3bb821ed4c7fd8dad1f646",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/103bb250a199aab77fde2d2be3b0063281140760",
+        "width" : 64
+      } ],
+      "name" : "Queen Ifrica",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:5SK75gxwqKq5Zc1mdLfwv9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ut6fi3lFL2TBpLfHK7wZp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 648
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ut6fi3lFL2TBpLfHK7wZp",
+      "id" : "5ut6fi3lFL2TBpLfHK7wZp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7ce767d08fadb5ed20be50bf96c9d25f3becee3b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8fa267650d396ec7d4fb7c596e2c408eeeb19d6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/d4c4c114f7f34ef0311a32000a554a7fab5cd077",
+        "width" : 64
+      } ],
+      "name" : "Valley Queen",
+      "popularity" : 25,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ut6fi3lFL2TBpLfHK7wZp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 802
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6MGlEnPgJhFkC8P8DdKtsT",
+      "id" : "6MGlEnPgJhFkC8P8DdKtsT",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/0080c122fb488f3cdc52ec22e5e89adc6f90f31b",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/a28e60da72c5db2fd2a3b43c78352b25c67dd852",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/6666064631f18718e8aa762b865de66fc39a8387",
+        "width" : 64
+      } ],
+      "name" : "Warrior Queen",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:6MGlEnPgJhFkC8P8DdKtsT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2IhiXMCfrYOJn5gnnLen28"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2IhiXMCfrYOJn5gnnLen28",
+      "id" : "2IhiXMCfrYOJn5gnnLen28",
+      "images" : [ ],
+      "name" : "Queen Chrysalis",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:2IhiXMCfrYOJn5gnnLen28"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6iy8nrBbtL57i4eUttHTww"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15262
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6iy8nrBbtL57i4eUttHTww",
+      "id" : "6iy8nrBbtL57i4eUttHTww",
+      "images" : [ {
+        "height" : 1500,
+        "url" : "https://i.scdn.co/image/9b8c013843f27081548213a55d85d4109dc63304",
+        "width" : 1000
+      }, {
+        "height" : 960,
+        "url" : "https://i.scdn.co/image/55e19dbf18fe48724729caee17131a91da5933f9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/e0849b12b1eddf1aa037979ed3f0b9c1423727ef",
+        "width" : 200
+      }, {
+        "height" : 96,
+        "url" : "https://i.scdn.co/image/3ab343f822cc75b0a50d7c470799229bf013ac57",
+        "width" : 64
+      } ],
+      "name" : "The Good, the Bad & the Queen",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:6iy8nrBbtL57i4eUttHTww"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sD6yJxdlMAiZYGOqa1Rx3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1234
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1sD6yJxdlMAiZYGOqa1Rx3",
+      "id" : "1sD6yJxdlMAiZYGOqa1Rx3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7ca1caec40469e435d738f1bd1ba56146f77f08a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/3053e0aff7a915b54d91c7ecedbb99b8f9ac9b90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/a8cd6db398d008598747c406ccc75b70e9789124",
+        "width" : 64
+      } ],
+      "name" : "DEMON QUEEN",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:1sD6yJxdlMAiZYGOqa1Rx3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aIcUArkA5G3MLXrSx54JT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 73
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7aIcUArkA5G3MLXrSx54JT",
+      "id" : "7aIcUArkA5G3MLXrSx54JT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/75ea2d8d159e05403e1e7af7acf182bea132aedb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/07c80318570a056383007403e6f47f90a9c7d0c3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/d6dcd036edc7b34b72481cdc7df3377a10714973",
+        "width" : 64
+      } ],
+      "name" : "Queen + VonLichten",
+      "popularity" : 22,
+      "type" : "artist",
+      "uri" : "spotify:artist:7aIcUArkA5G3MLXrSx54JT"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=%27queen%27&offset=20&limit=20&type=artist",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1013
+  }
+}
